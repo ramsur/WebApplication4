@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "google"]
+	url = https://source.developers.google.com/p/presales-355008/r/dotnetwebapp
+	fetch = +refs/heads/*:refs/remotes/google/*
